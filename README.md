@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ikechukwu </h1>
+<h1 align="center">Hi 👋, I'm Wisakano </h1>
 <div align="center">
   <p>AI Automation Engineer | Data Scientist |</p>
   
