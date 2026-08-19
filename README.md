@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Maywizy </h1>
 <div align="center">
-  <p>Data Scientist | AI|ML Engineer | Technical Writer</p>
+  <p>Data Scientist | AI/ML Engineer | Technical Writer</p>
   
   <p>
     <a href="https://substack.com/@wisdomakano" target="_blank">
@@ -20,7 +20,7 @@
 </p>
 
 ## 💁‍♂ About me
-- 🧑‍💻 I am an AI|ML Engineer, Full Stack Data Scientist, and Technical Writer writing mainly on Substack and Ready Tensor
+- 🧑‍💻 I am an AI/ML Engineer, Full Stack Data Scientist, and Technical Writer writing mainly on Substack and Ready Tensor
 - 🧑‍💻 I love using Software as a solution for Problems
 - 📝 I have a strong foundation and interest in Artificial Intelligence and Machine Learning
 - 🧑‍🎓 My other Stacks: Machine Learning Engineering, Deep Learning, Computer Vision, and Natural Language Processing
