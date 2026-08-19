@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Maywizy </h1>
 <div align="center">
-  <p>Data Scientist| AI|ML Engineer| Technical Writer</p>
+  <p>Data Scientist | AI|ML Engineer | Technical Writer</p>
   
   <p>
     <a href="https://substack.com/@wisdomakano" target="_blank">
