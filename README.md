@@ -20,12 +20,12 @@
 </p>
 
 ## 💁‍♂ About me
-- 🧑‍💻 I am an AI/ML Engineer, Full Stack Data Scientist, and Technical Writer writing mainly on Substack and Ready Tensor
-- 🧑‍💻 I love using Software as a solution for Problems
-- 📝 I have a strong foundation and interest in Artificial Intelligence and Machine Learning
-- 🧑‍🎓 My other Stacks: Machine Learning Engineering, Deep Learning, Computer Vision, and Natural Language Processing
-- 🤓 Always learning new things and growing
-- 🎹 🎷 I am also interested in building custom and templated AI solutions
+About Me
+ AI/ML Engineer building production systems — from fine-tuned LLMs to live infrastructure
+ Co- Building Tribridge, a multi-chain Web3 payments API (Solana, Sui, TON), and TriVerify, a live cross-chain address validation SDK
+ Background: Biochemistry (2018) → self-taught Data Science/ML → BSc Computer Science (UoPeople) → MSCFE candidate (WorldQuant University)
+ I write on Substack and Ready Tensor about AI/ML and what I'm building
+ Core stack: LLM fine-tuning, MLOps (Docker, CI/CD, AWS), Computer Vision, NLP
   
 # 🛠 My skills
 
