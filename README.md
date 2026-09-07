@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Maywizy </h1>
 <div align="center">
-  <p>Data Scientist | AI/ML Engineer | Technical Writer</p>
+  <p>AI/ML Engineer | LLM Fine-tuning & MLOps — Biochemistry → Finance & AI. Building production ML systems (Docker, AWS, CI/CD) and fine-tuning LLMs for domain-specific tasks. MSCFE candidate, WorldQuant University.</p>
   
   <p>
     <a href="https://substack.com/@wisdomakano" target="_blank">
