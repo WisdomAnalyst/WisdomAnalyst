@@ -20,7 +20,7 @@
 </p>
 
 ## 💁‍♂ About me
-About Me
+
  AI/ML Engineer building production systems — from fine-tuned LLMs to live infrastructure
  Co- Building Tribridge, a multi-chain Web3 payments API (Solana, Sui, TON), and TriVerify, a live cross-chain address validation SDK
  Background: Biochemistry (2018) → self-taught Data Science/ML → BSc Computer Science (UoPeople) → MSCFE candidate (WorldQuant University)
