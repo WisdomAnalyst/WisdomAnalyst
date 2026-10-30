@@ -23,7 +23,7 @@
 
  AI/ML Engineer building production systems — from fine-tuned LLMs to live infrastructure
  Co- Building Tribridge, a multi-chain Web3 payments API (Solana, Sui, TON), and TriVerify, a live cross-chain address validation SDK
- Background: Biochemistry (2018) → self-taught Data Science/ML → BSc Computer Science (UoPeople) → MSCFE candidate (WorldQuant University)
+ Background: Biochemistry (2018) → self-taught Data Analyst, Industry trained Data science/ML → BSc Computer Science (UoPeople) → MSCFE candidate (WorldQuant University)
  I write on Substack and Ready Tensor about AI/ML and what I'm building
  ### Core stack:
  LLM fine-tuning,
